@@ -1,0 +1,5 @@
+ipython>=5.0.0
+jupyter
+numpy
+matplotlib
+pandas
